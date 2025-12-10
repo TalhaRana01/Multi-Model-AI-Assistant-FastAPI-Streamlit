@@ -62,3 +62,9 @@ ai-assistant/
 ├── .env.example
 ├── .gitignore
 └── README.md
+
+# {
+#   "username": "taharana",
+#   "email": "taharana@example.com",
+#   "password": "taha112244"
+# }

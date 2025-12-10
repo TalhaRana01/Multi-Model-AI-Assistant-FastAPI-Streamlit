@@ -7,7 +7,8 @@ from datetime import datetime
 import pandas as pd
 
 # Configuration
-API_URL = "http://localhost:8000"
+# API_URL = "http://localhost:8000"
+API_URL = "https://multi-model-ai-assistant-fastapi-streamlit-production.up.railway.app/"
 
 # Page config
 st.set_page_config(
