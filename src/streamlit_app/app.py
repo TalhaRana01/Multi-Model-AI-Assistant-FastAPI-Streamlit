@@ -9,7 +9,8 @@ import plotly.express as px
 from typing import Optional
 
 # Configuration
-API_URL = "http://localhost:8000"
+# API_URL = "http://localhost:8000"
+API_URL = "https://multi-model-ai-assistant-fastapi-streamlit-production.up.railway.app/"
 
 # Custom CSS for professional look
 st.markdown("""
